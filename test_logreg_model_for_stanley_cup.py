@@ -3,9 +3,9 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 import joblib
 
-model = joblib.load('logistic_regression_model_for_stanley_cup.pkl')
+model = joblib.load('logreg_model_for_stanley_cup.pkl')
 
-directory = 'C:\\Users\\Jeremy\\Dev\\Python\\logistic_regression_model_for_stanley_cup\\nhl_data'
+directory = 'C:\\Users\\Jeremy\\Dev\\Python\\logreg_model_for_stanley_cup\\nhl_data'
 
 total_predictions = 0
 total_correct_predictions = 0

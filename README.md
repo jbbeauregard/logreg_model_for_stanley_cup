@@ -1,6 +1,6 @@
 ## Stanley Cup Prediction Model
 
-This repository contains a logistic regression model trained to predict the winners of the NHL Stanley Cup based on regular season and playoffs statistics of the last 18 years.
+This repository contains a logistic regression model trained to predict the winners of the NHL Stanley Cup based on regular season and playoff statistics of the last 18 years.
 
 As of 2024-02-20, the model predicts that the Winnipeg Jets will win the Stanley Cup.
 

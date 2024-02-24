@@ -27,4 +27,4 @@ print("Model accuracy :", accuracy)
 
 print(classification_report(y_test, predictions))
 
-joblib.dump(model, 'logistic_regression_model_for_stanley_cup.pkl')
+joblib.dump(model, 'logreg_model_for_stanley_cup.pkl')
